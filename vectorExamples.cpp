@@ -17,13 +17,13 @@ int main(){
     // }
 
     std::vector<int>* vec2 = new std::vector<int>;
-    vec2 -> reserve(50);
+    //vec2 -> reserve(50);
 
     for (int i = 0; i<50; i++){
         vec2 -> push_back(i);
         std::cout << vec2 -> size() << "\t";
         std::cout << vec2 -> capacity() << "\t";
-        std::cout << &vec2 << std::endl;
+        std::cout << &vec2[0] << std::endl;
     }
 
 
