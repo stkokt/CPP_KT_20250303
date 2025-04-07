@@ -60,5 +60,7 @@ int main() {
              << ", Durstig: " << (person.thirsty ? "Ja" : "Nein") << '\n';
     }
 
+    cout << krug << endl;
+
     return 0;
 }
