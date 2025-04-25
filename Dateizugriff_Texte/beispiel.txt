@@ -1,0 +1,6 @@
+Hallo Welt. Das ist ein Beispieltext.
+Das ist eine weitere Zeile
+Dieser Text wird am Ende hinzugefügt.
+Eeine weitere Zeile wird angehängt.
+Dieser Text wird am Ende hinzugefügt.
+Eeine weitere Zeile wird angehängt.
